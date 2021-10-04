@@ -1,4 +1,3 @@
-import { Api } from "../interfaces/api";
 import { Brand, Car } from "../interfaces/cars";
 import { instance } from "./api";
 
